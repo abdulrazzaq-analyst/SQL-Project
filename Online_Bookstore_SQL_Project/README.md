@@ -10,9 +10,9 @@ This project is a SQL-based simulation of an Online Bookstore using PostgreSQL. 
 
 ## 🗂️ Folders
 
-- `sql_files/` → Contains all SQL scripts  
-- `csv_files/` → Contains sample data (Books, Customers, Orders)  
-- `project_documents/` → Contains PDF report and PowerPoint presentation
+- `SQL_Files/` → Contains all SQL scripts  
+- `CSV_Files/` → Contains sample data (Books, Customers, Orders)  
+- `Project_Documents/` → Contains PDF report and PowerPoint presentation
 
 ---
 
