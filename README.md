@@ -14,8 +14,8 @@ This project simulates a relational database system for an Online Bookstore usin
 
 ## 📄 Additional Files
 
-- `documents/report.pdf` – Business insights report
-- `documents/presentation.pptx` – PowerPoint summary
+- `report.pdf` – Business insights report
+- `presentation.pptx` – PowerPoint summary
 
 ## 📌 Key Concepts Used
 
