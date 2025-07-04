@@ -1,0 +1,501 @@
+Book_ID,Title,Author,Genre,Published_Year,Price,Stock
+1,Configurable modular throughput,Joseph Crane,Biography,1949,21.34,100
+2,Persevering reciprocal knowledge user,Mario Moore,Fantasy,1971,35.8,19
+3,Streamlined coherent initiative,Derrick Howard,Non-Fiction,1913,15.75,27
+4,Customizable 24hour product,Christopher Andrews,Fiction,2020,43.52,8
+5,Adaptive 5thgeneration encoding,Juan Miller,Fantasy,1956,10.95,16
+6,Advanced encompassing implementation,Bryan Morgan,Biography,1985,6.56,2
+7,Open-architected exuding structure,Jacqueline Young,Romance,1927,43.63,95
+8,Persistent local encoding,Troy Cox,Science Fiction,2019,48.99,84
+9,Optimized interactive challenge,Colin Buckley,Fantasy,1987,14.33,70
+10,Ergonomic national hub,Samantha Ruiz,Mystery,2015,24.63,25
+11,Secured zero tolerance time-frame,Denise Barnes,Fantasy,1998,35.95,10
+12,Polarized optimal array,Destiny Scott,Non-Fiction,1989,27.43,63
+13,Adaptive 5thgeneration orchestration,Jaclyn Miller,Romance,1913,14.04,99
+14,Re-engineered demand-driven parallelism,Jeremy Hayes,Science Fiction,1933,6.04,95
+15,User-friendly motivating strategy,Keith Smith,Non-Fiction,1997,23.83,58
+16,Vision-oriented tangible project,Christopher Price,Mystery,1941,10.07,8
+17,Reduced secondary core,Benjamin Peters,Fantasy,1966,5.37,45
+18,Adaptive 4thgeneration concept,Hector Palmer,Non-Fiction,2021,39.47,32
+19,Progressive asymmetric Internet solution,Sean Miller,Science Fiction,1990,11.31,1
+20,Face-to-face systematic throughput,Teresa Brennan,Non-Fiction,1978,48.13,64
+21,Down-sized static interface,Todd Brown,Biography,1925,47.13,87
+22,Multi-layered optimizing migration,Wesley Escobar,Fiction,1908,39.23,78
+23,Reverse-engineered context-sensitive hardware,Christina Hernandez,Mystery,1967,38.55,70
+24,Ergonomic incremental hub,Tanya Mcdonald,Biography,1907,32.74,54
+25,Devolved mobile conglomeration,Alexander Bailey,Biography,1984,8.55,79
+26,Multi-channeled multi-tasking capability,Patricia Buck,Science Fiction,1964,21.05,41
+27,Team-oriented human-resource access,Cody Shah,Fantasy,1927,42.14,76
+28,Expanded analyzing portal,Lisa Coffey,Fiction,1941,37.51,79
+29,Quality-focused multi-tasking challenge,Katrina Underwood,Fiction,1905,31.12,100
+30,Multi-layered global open system,Jose Meyer,Biography,2012,30.58,37
+31,Implemented encompassing conglomeration,Melissa Taylor,Fiction,2010,21.23,44
+32,Synergistic dedicated concept,Lisa Bailey,Mystery,2021,21.56,100
+33,Team-oriented empowering synergy,Sandra Williams,Non-Fiction,2023,35.06,49
+34,Stand-alone multimedia throughput,Jason Jefferson,Fantasy,1939,16.49,43
+35,Grass-roots solution-oriented adapter,William Turner,Non-Fiction,2018,31.81,85
+36,Open-source needs-based secured line,Jacob French,Mystery,1949,34.51,86
+37,Up-sized tertiary archive,Todd Kennedy,Fantasy,1955,13.08,3
+38,Pre-emptive asynchronous leverage,Courtney Nichols,Fantasy,2022,16.47,72
+39,Optimized national process improvement,Megan Goodwin,Fiction,1978,10.99,42
+40,Adaptive didactic interface,Natalie Gonzalez,Fiction,1923,25.97,94
+41,Integrated grid-enabled superstructure,Katherine Robbins,Science Fiction,1950,43.09,78
+42,Pre-emptive interactive focus group,Shannon Reese,Mystery,1937,48.35,82
+43,Function-based zero-defect initiative,Daniel Nunez,Romance,1952,47.39,61
+44,Networked systemic implementation,Ryan Frank,Science Fiction,1965,13.55,0
+45,Centralized cohesive website,Luis Rogers,Mystery,1984,25.49,59
+46,Distributed attitude-oriented open system,Jamie Lambert,Romance,1923,33.17,75
+47,Reverse-engineered directional conglomeration,John Christian,Fiction,2006,20.37,90
+48,Multi-channeled 5thgeneration Internet solution,Jennifer Powell,Biography,1963,24.7,94
+49,Robust attitude-oriented attitude,Zachary Hayes,Biography,1955,49.5,15
+50,Face-to-face responsive secured line,Lindsey Rodriguez,Fantasy,1970,37.0,63
+51,Visionary optimizing project,Douglas Bush,Biography,2022,46.3,95
+52,Triple-buffered neutral adapter,Kristi Phillips,Science Fiction,2003,16.53,85
+53,Triple-buffered multi-tasking help-desk,Brian Johnson,Biography,1969,29.28,60
+54,Progressive bi-directional methodology,Adrian Taylor,Fantasy,2015,44.78,27
+55,Streamlined well-modulated migration,Isabel Wood,Romance,1934,27.32,66
+56,Integrated intermediate Internet solution,Stacy Cabrera,Mystery,1976,7.87,67
+57,Team-oriented 3rdgeneration encryption,Sabrina Hernandez DVM,Romance,1962,23.59,27
+58,Profound logistical capacity,Ray Walsh,Romance,1995,34.54,14
+59,Distributed directional adapter,Sarah Smith,Mystery,2012,26.0,41
+60,Robust eco-centric capacity,Brian Haney,Biography,1990,35.14,0
+61,Future-proofed upward-trending process improvement,Gregory Wallace,Non-Fiction,1934,41.05,10
+62,Re-contextualized real-time strategy,Nicole Lynch,Fiction,1953,26.34,23
+63,Polarized heuristic database,Franklin Mack,Fiction,1989,22.38,56
+64,Polarized hybrid emulation,Christopher Washington,Science Fiction,1963,24.1,86
+65,Total explicit open architecture,Zachary Williams,Science Fiction,1982,22.7,7
+66,Synergized bandwidth-monitored workforce,Amy Marks,Fantasy,1961,28.29,93
+67,Grass-roots zero tolerance archive,Michelle Taylor,Biography,1966,10.23,25
+68,Centralized responsive firmware,Alexander Nelson,Biography,1919,29.55,23
+69,Cloned impactful solution,Nichole Smith,Fantasy,1961,8.79,50
+70,Customer-focused context-sensitive process improvement,Mary Warren,Science Fiction,2021,23.45,19
+71,Organized methodical productivity,Daniel Santos,Biography,1950,38.5,40
+72,Networked contextually-based throughput,Andrea Eaton,Fantasy,1959,46.54,65
+73,Realigned multi-tasking installation,Patrick Contreras,Mystery,1933,21.23,39
+74,Automated scalable installation,Mitchell Hess,Biography,1986,45.12,83
+75,Multi-layered fresh-thinking solution,James Buckley,Science Fiction,1912,47.11,3
+76,Innovative directional matrix,David Castaneda,Romance,2009,41.33,9
+77,Cross-platform asynchronous encryption,Michelle Edwards,Fantasy,1935,44.28,88
+78,Synergized mobile architecture,Gregory Perez,Romance,1988,13.07,86
+79,Extended actuating encryption,Kylie Brown,Romance,1935,32.48,4
+80,Compatible 24/7 forecast,Michael Anderson,Science Fiction,1985,34.84,19
+81,Team-oriented logistical analyzer,Scott Gentry,Science Fiction,2010,44.19,13
+82,Optimized multi-state capacity,Sean Griffin,Non-Fiction,2001,45.7,38
+83,Sharable regional product,Michael Walker,Biography,2022,8.94,92
+84,Stand-alone 24hour interface,James Ortiz,Romance,1980,44.59,20
+85,Enhanced impactful system engine,Bianca Matthews,Science Fiction,1939,19.43,29
+86,Re-engineered 24/7 projection,Kathryn Williams,Non-Fiction,1948,25.51,44
+87,Decentralized actuating analyzer,Robert Johnson,Fantasy,1986,34.84,98
+88,Robust tangible hardware,Paul Miles,Non-Fiction,1999,40.22,32
+89,Mandatory exuding monitoring,Vincent Miles,Romance,1959,14.72,16
+90,Business-focused eco-centric help-desk,Sarah Miller,Science Fiction,1965,16.56,10
+91,Integrated exuding application,Elizabeth Morrison,Romance,1923,27.82,81
+92,Switchable context-sensitive productivity,Ashley Rodriguez,Fantasy,1911,34.21,58
+93,Object-based multimedia algorithm,Frank Aguilar,Non-Fiction,2009,17.43,37
+94,Open-source 5thgeneration alliance,Laurie Allen,Science Fiction,2001,16.86,75
+95,Function-based heuristic analyzer,Craig Smith,Biography,1990,49.53,11
+96,Up-sized impactful artificial intelligence,Rebecca Delgado,Science Fiction,1913,12.55,73
+97,Open-architected stable solution,Chad Nichols,Science Fiction,2017,45.74,70
+98,Digitized encompassing definition,Thomas Gonzales,Fantasy,1996,46.71,83
+99,Optimized heuristic challenge,Tracy Hendrix,Science Fiction,1962,46.93,26
+100,Synchronized client-server service-desk,James Alvarado,Fiction,1906,49.89,29
+101,Multi-tiered context-sensitive hub,Amanda Knight,Mystery,1923,48.49,40
+102,Ergonomic stable open architecture,Robin Brown,Romance,1955,40.22,31
+103,Upgradable foreground open system,Kathryn Lopez,Science Fiction,1907,43.25,11
+104,Automated radical solution,Leonard Vega,Biography,1948,10.56,82
+105,Expanded explicit neural-net,Melissa Tucker,Romance,2005,30.02,4
+106,Cross-group zero administration utilization,Mary Barnett,Mystery,1988,29.58,80
+107,Front-line client-driven projection,Amy Andrews,Science Fiction,1996,19.85,44
+108,Future-proofed fault-tolerant encoding,Larry Andrews,Science Fiction,1918,25.38,28
+109,Operative foreground project,Valerie Mcfarland,Fantasy,1970,8.54,60
+110,Re-contextualized radical matrix,Michael Howell,Fantasy,1903,30.15,2
+111,Switchable full-range definition,Joseph Rivas,Mystery,1932,40.29,54
+112,Distributed secondary software,Erik Reynolds,Romance,1969,8.02,21
+113,Versatile value-added structure,Jackson Hill,Science Fiction,1936,6.38,76
+114,Open-architected scalable knowledge user,Mitchell Larson,Mystery,2016,7.28,2
+115,Upgradable interactive emulation,Christopher Ross,Biography,2021,28.12,37
+116,Multi-tiered foreground contingency,Jamie Gates,Fiction,1938,41.82,50
+117,Self-enabling contextually-based frame,Lori Taylor,Science Fiction,1966,14.87,20
+118,Profound didactic leverage,Andrew Murphy,Fantasy,2017,5.52,22
+119,Switchable modular moratorium,Tonya Saunders,Romance,2010,49.88,76
+120,Integrated secondary access,Sheena Harris,Non-Fiction,1984,48.03,93
+121,Switchable needs-based strategy,Richard Fisher,Biography,1957,42.47,38
+122,Profound leadingedge capability,Mary French,Mystery,1992,30.75,17
+123,Enterprise-wide dedicated knowledge user,Jordan Merritt,Mystery,1938,37.6,16
+124,Seamless demand-driven focus group,Matthew Fuentes,Mystery,1968,27.1,11
+125,Public-key analyzing Graphic Interface,Abigail Madden,Fiction,1990,32.41,16
+126,Persevering national encoding,Paul Moore,Mystery,1949,25.33,78
+127,Business-focused real-time benchmark,David Nelson,Science Fiction,1997,11.66,0
+128,Visionary modular productivity,Ruben Nichols,Romance,1949,24.04,35
+129,Decentralized multi-tasking data-warehouse,Dr. Kelly Armstrong,Romance,1959,40.74,29
+130,Realigned context-sensitive pricing structure,Jason Rodriguez,Fiction,2004,6.64,90
+131,Proactive 6thgeneration methodology,Betty Carroll,Mystery,1902,27.28,11
+132,Multi-lateral methodical implementation,Lauren Moore,Fantasy,1907,20.46,53
+133,Reduced discrete leverage,Zachary Buchanan,Mystery,1911,20.96,90
+134,Polarized bandwidth-monitored throughput,Linda Newman,Fiction,1955,35.72,49
+135,Customizable bi-directional focus group,Kristin Farley,Mystery,2001,15.13,83
+136,Stand-alone intangible installation,Morgan Mata,Romance,2012,9.89,84
+137,Networked contextually-based encryption,Leslie Montoya,Biography,1942,26.33,1
+138,Profound zero-defect knowledgebase,Carolyn Garcia,Fantasy,1978,24.77,8
+139,Synergistic analyzing intranet,Robert Garcia,Biography,1923,35.4,51
+140,Assimilated asymmetric Local Area Network,Timothy Williams,Biography,2003,31.49,6
+141,Exclusive hybrid monitoring,Dr. Heather Boyd,Romance,1909,49.42,36
+142,Multi-tiered responsive parallelism,Amanda Wilson,Fiction,1940,48.96,11
+143,Networked multimedia support,Nancy Goodman,Fiction,2012,43.65,50
+144,Future-proofed scalable software,Matthew Wolf,Fiction,1945,19.27,90
+145,Phased eco-centric array,Barry Bennett,Fantasy,1905,22.53,57
+146,Stand-alone hybrid framework,Ethan Kennedy,Non-Fiction,1903,14.5,91
+147,Innovative empowering concept,Brad Vasquez,Science Fiction,1964,45.2,74
+148,Upgradable contextually-based hierarchy,Jared Reyes,Fantasy,1941,12.25,97
+149,Expanded explicit solution,Tonya Robertson,Biography,1957,17.09,73
+150,Phased logistical open system,Jenna Henderson,Biography,1952,31.95,32
+151,Innovative real-time neural-net,David Miller,Non-Fiction,1998,33.87,38
+152,Advanced dynamic complexity,Elizabeth Ayala,Fantasy,1983,46.77,84
+153,Synergistic needs-based capability,Aaron Alvarez,Science Fiction,1950,8.05,52
+154,Horizontal hybrid forecast,Alexander Wallace,Mystery,1919,17.44,19
+155,Optimized content-based standardization,Timothy Adams,Science Fiction,1901,49.96,88
+156,Synergistic grid-enabled website,Brandon Black,Fiction,1953,31.68,34
+157,Advanced didactic time-frame,Thomas Trujillo,Biography,2005,19.17,57
+158,Digitized optimal intranet,James Silva,Mystery,1919,24.69,40
+159,Proactive 5thgeneration middleware,Brandon Foster,Biography,1999,36.21,49
+160,Digitized cohesive emulation,Jared Cortez,Science Fiction,1924,34.48,65
+161,Focused high-level strategy,Stephanie Sloan,Fantasy,1963,21.6,11
+162,Centralized maximized database,Tracy Pace,Mystery,1981,48.84,64
+163,Object-based eco-centric challenge,Douglas Mccarthy,Non-Fiction,1905,19.11,0
+164,Expanded scalable time-frame,Ashley Mason,Non-Fiction,2013,41.83,4
+165,Exclusive uniform superstructure,Carl Cantrell,Mystery,1912,32.1,19
+166,Customizable discrete Graphical User Interface,Rebecca Alexander,Romance,1951,11.02,56
+167,User-friendly radical standardization,Leon Davis,Science Fiction,1954,36.02,55
+168,Vision-oriented radical capability,Tracy Parker,Mystery,2018,14.13,61
+169,Networked tertiary approach,Margaret Moore,Biography,1963,23.57,45
+170,Optional stable matrix,Michael Wells,Non-Fiction,1947,11.28,62
+171,Integrated hybrid collaboration,Sarah Vincent,Science Fiction,2004,32.15,99
+172,Centralized homogeneous open system,Dennis Smith,Biography,1977,36.82,97
+173,Ergonomic foreground Graphic Interface,Patrick Williams,Fiction,1948,6.07,100
+174,Pre-emptive executive knowledge user,Rebecca Mann,Mystery,1951,37.83,18
+175,Networked disintermediate projection,John Bradley,Biography,1910,32.85,39
+176,Fundamental system-worthy parallelism,Cameron Garcia,Fantasy,1924,16.11,52
+177,Visionary exuding product,Christopher Johnson,Romance,1904,36.2,3
+178,Organized even-keeled conglomeration,Christopher Ray,Science Fiction,1970,27.89,31
+179,Innovative didactic capacity,Matthew Vazquez,Science Fiction,2009,48.21,66
+180,Front-line discrete complexity,David Rodriguez,Science Fiction,2001,25.09,14
+181,Balanced object-oriented Graphic Interface,Dylan Christensen,Romance,1987,38.73,85
+182,Reduced bottom-line forecast,Virginia Butler,Mystery,2014,23.76,9
+183,Total exuding project,Richard Curtis,Mystery,2001,15.4,6
+184,Enterprise-wide solution-oriented challenge,Megan Jones,Fantasy,1978,5.25,22
+185,Networked object-oriented definition,Kelly Vazquez,Fiction,1940,21.98,10
+186,Sharable executive conglomeration,Pam Price,Mystery,1938,41.33,4
+187,Total well-modulated groupware,Kenneth Phillips,Fiction,1989,22.98,7
+188,Switchable value-added conglomeration,Clinton Mcintyre MD,Science Fiction,2014,20.14,73
+189,Grass-roots eco-centric task-force,Brandon Munoz,Mystery,1989,13.65,88
+190,Cross-platform even-keeled focus group,Andrew Parker,Science Fiction,2016,38.36,4
+191,Multi-layered 24hour infrastructure,Casey Moreno,Romance,1911,42.19,8
+192,Phased solution-oriented collaboration,Nicholas Roth,Romance,1930,48.37,71
+193,Customer-focused tertiary methodology,Justin Garcia,Fantasy,1954,29.54,100
+194,Digitized content-based time-frame,Deborah White,Science Fiction,1982,33.88,64
+195,Sharable tangible collaboration,Christian Ward,Biography,2021,11.63,20
+196,Phased context-sensitive task-force,Rachel Gibbs,Science Fiction,1934,6.69,24
+197,Organized content-based core,Brandon Martin,Mystery,1980,43.03,9
+198,Persevering tertiary product,Michael Lee,Biography,1917,22.38,80
+199,Configurable fault-tolerant interface,Mark Parker,Mystery,1923,42.81,1
+200,Right-sized modular synergy,Marie Smith,Science Fiction,1939,9.96,32
+201,Secured 24/7 groupware,Alexander Smith,Non-Fiction,1915,37.25,11
+202,Balanced optimal open architecture,Lindsey Johnson,Mystery,1964,12.26,32
+203,Self-enabling mobile software,Stephanie Frost,Non-Fiction,2003,27.22,52
+204,Business-focused foreground model,Heather Zavala,Romance,1921,26.52,59
+205,De-engineered attitude-oriented software,Anthony Martin,Fantasy,1990,5.83,8
+206,Digitized executive flexibility,Lisa Lopez,Non-Fiction,1960,38.01,84
+207,Total intangible application,Michael Booker,Non-Fiction,1922,6.67,53
+208,Synergized intangible methodology,Ellen Doyle,Fantasy,1917,25.0,83
+209,Distributed modular capability,Nicole Berger,Mystery,1979,48.67,63
+210,Centralized 6thgeneration model,Yolanda Mclean,Science Fiction,1971,40.93,51
+211,Centralized asymmetric data-warehouse,Dana Ibarra,Biography,1944,16.19,44
+212,Diverse 4thgeneration knowledge user,Lindsey Lucas,Science Fiction,1950,18.69,35
+213,Synchronized transitional alliance,Joseph Holt,Mystery,1903,6.79,35
+214,Fundamental methodical open architecture,Jeffery Green,Fiction,2005,18.16,47
+215,Organic 24/7 focus group,Marco Travis,Biography,1910,25.16,37
+216,Down-sized mobile extranet,Mary Carter,Mystery,2019,24.63,92
+217,Open-source 3rdgeneration secured line,Christina Terrell,Non-Fiction,2019,35.38,98
+218,User-friendly tertiary forecast,Malik Stephens,Mystery,1948,5.36,34
+219,Reactive bandwidth-monitored architecture,Michele Williams,Mystery,1961,20.9,32
+220,Multi-lateral zero-defect matrix,Nicole Hughes,Fiction,1904,16.51,60
+221,Re-engineered solution-oriented extranet,Robert Castaneda,Biography,1988,24.81,2
+222,Virtual fault-tolerant model,Scott Wells,Science Fiction,1928,29.59,75
+223,Virtual holistic Internet solution,Lauren Merritt,Mystery,1944,6.52,95
+224,Multi-channeled coherent protocol,Joseph Jensen,Non-Fiction,2007,42.15,80
+225,Synergized foreground website,Carrie Ware,Biography,1976,36.04,26
+226,Devolved optimizing leverage,Thomas Anderson,Fantasy,1913,27.22,68
+227,Centralized context-sensitive functionalities,Virginia Levine,Non-Fiction,1900,38.17,78
+228,Managed object-oriented hardware,Ashley Gonzalez,Romance,1975,30.75,5
+229,Managed hybrid array,Charles Smith,Romance,1965,20.46,78
+230,Optional cohesive methodology,Jerome Lee,Science Fiction,1977,6.1,59
+231,Polarized maximized challenge,Steven Davis,Non-Fiction,1986,9.37,84
+232,Monitored 24/7 groupware,Vicki Mcgee,Science Fiction,1925,9.62,1
+233,Team-oriented client-driven adapter,Adrian Avery,Mystery,2011,10.39,47
+234,Total reciprocal monitoring,Reginald Chavez,Science Fiction,2006,7.15,9
+235,Organized secondary protocol,Andrew Brown,Fantasy,1957,15.66,19
+236,Assimilated disintermediate ability,Christopher Anderson,Romance,1948,10.78,87
+237,Down-sized holistic hardware,Paul Williams,Mystery,1905,40.43,42
+238,Optimized even-keeled analyzer,Sherri Griffith,Fantasy,1975,48.97,72
+239,Devolved encompassing intranet,Linda Rasmussen,Science Fiction,1922,44.51,55
+240,Stand-alone content-based hub,Lisa Ellis,Fantasy,1957,49.9,41
+241,Up-sized fault-tolerant hub,Taylor Wang,Fantasy,2015,14.06,38
+242,Business-focused responsive parallelism,Amy Reyes,Mystery,1954,33.79,38
+243,Automated systemic toolset,Tiffany Conley,Fantasy,1953,8.87,65
+244,Managed radical superstructure,David Hoover,Science Fiction,1968,7.37,88
+245,Automated client-driven open architecture,Jose Brown,Non-Fiction,2000,16.06,18
+246,Visionary actuating ability,Paul Taylor,Biography,1940,7.43,98
+247,Innovative actuating instruction set,Ashley Hill,Science Fiction,1934,24.42,45
+248,Cross-group responsive protocol,Cathy Knight,Science Fiction,2021,46.99,68
+249,Fundamental national infrastructure,Nancy Austin,Fiction,1928,32.95,58
+250,Devolved incremental intranet,Jessica Lopez,Science Fiction,1918,12.65,13
+251,Seamless 5thgeneration challenge,Michelle Harris,Fiction,1906,8.87,98
+252,Down-sized high-level encoding,Gabriela Russell MD,Fiction,1902,12.62,43
+253,Horizontal didactic structure,Robert Rodriguez,Fiction,1961,11.66,21
+254,Team-oriented bandwidth-monitored project,Jacqueline Ramsey,Mystery,1916,42.57,100
+255,Switchable impactful superstructure,Amber Wells,Science Fiction,1906,24.51,24
+256,Digitized multi-state circuit,Sarah Walker,Biography,1981,36.86,77
+257,Multi-channeled 24/7 functionalities,William Pierce,Romance,1935,21.14,33
+258,Robust systemic Graphical User Interface,Kyle Carter,Mystery,1916,9.95,6
+259,Pre-emptive incremental secured line,Jason Perez,Science Fiction,1994,14.48,1
+260,Business-focused methodical application,Brian King,Fiction,1907,49.59,10
+261,Intuitive content-based toolset,Christopher Fuentes,Science Fiction,1964,14.25,52
+262,Team-oriented content-based adapter,Dr. Kimberly Stevenson DVM,Biography,1979,21.02,86
+263,Right-sized bifurcated definition,Kayla Wilkinson,Fiction,1965,9.79,3
+264,De-engineered local interface,Wayne Hall,Biography,2015,20.51,47
+265,Adaptive homogeneous moratorium,Jennifer Johnson,Non-Fiction,1926,46.6,66
+266,Persevering disintermediate application,Jeremy Bailey,Non-Fiction,1927,33.29,92
+267,Expanded demand-driven database,Gary Williams,Biography,1905,37.49,24
+268,Monitored 5thgeneration challenge,Billy Aguilar,Biography,1960,8.1,62
+269,Decentralized disintermediate Internet solution,Jerry Fisher,Romance,1963,33.08,42
+270,Organized logistical architecture,Christopher Martinez,Romance,1919,13.17,25
+271,Intuitive intangible circuit,Robin Mejia,Science Fiction,1974,22.08,82
+272,Intuitive 4thgeneration intranet,Daniel Gillespie,Mystery,1959,5.16,79
+273,Devolved zero administration process improvement,Emily James,Romance,1929,12.43,23
+274,Automated systemic functionalities,Matthew Thomas,Fiction,1903,48.8,72
+275,Team-oriented dedicated attitude,Jeffrey Richardson,Biography,2006,25.83,91
+276,Profound radical access,Ryan Clark,Romance,1911,19.85,32
+277,Progressive user-facing customer loyalty,Ashley Cunningham,Biography,1909,33.21,95
+278,Exclusive asymmetric installation,Benjamin Flores,Fiction,1901,48.61,69
+279,Upgradable radical adapter,Elizabeth Wilson,Non-Fiction,2008,30.5,28
+280,Balanced next generation forecast,Aaron Rangel,Non-Fiction,1977,16.78,97
+281,Fundamental object-oriented productivity,Robert Hatfield,Mystery,1931,16.34,83
+282,Configurable local emulation,Russell Castillo,Biography,2016,38.19,3
+283,Phased value-added access,Jessica Johnson,Non-Fiction,1903,17.0,94
+284,Progressive 24hour artificial intelligence,Peter Cabrera,Science Fiction,1906,15.21,99
+285,Devolved secondary function,Sheila Nelson,Science Fiction,1914,27.65,34
+286,Sharable client-driven contingency,Joseph Crawford,Non-Fiction,1900,8.29,84
+287,Exclusive encompassing pricing structure,Cynthia Diaz,Science Fiction,1994,40.19,32
+288,Re-contextualized real-time Graphic Interface,Erica Parker,Science Fiction,1908,27.91,9
+289,Inverse asynchronous superstructure,Lacey Lang,Mystery,1959,20.12,66
+290,Expanded analyzing forecast,Holly Golden,Mystery,1988,43.81,31
+291,Compatible impactful interface,Rachael Kelley,Biography,1957,7.77,13
+292,Fully-configurable mission-critical artificial intelligence,Rachel Adkins,Mystery,2017,26.94,2
+293,Secured object-oriented secured line,Megan Kennedy,Fantasy,1955,17.93,58
+294,Pre-emptive clear-thinking workforce,Craig Sanchez,Mystery,1964,42.53,29
+295,Persistent disintermediate artificial intelligence,Todd Davis,Non-Fiction,1977,28.66,65
+296,Triple-buffered heuristic adapter,Jennifer Johnson,Non-Fiction,1949,11.49,49
+297,Advanced well-modulated architecture,Chad Craig,Fiction,2016,35.65,2
+298,Assimilated composite archive,Mark Gibson,Fiction,1957,46.66,62
+299,Centralized disintermediate array,Donald Wiggins,Fiction,1909,28.19,73
+300,Integrated fresh-thinking toolset,Joseph Jensen,Non-Fiction,1962,26.87,77
+301,Polarized high-level installation,John Davidson,Fantasy,1975,21.66,77
+302,Ergonomic leadingedge portal,James Curtis,Fiction,1981,28.67,92
+303,Open-source background extranet,Meredith Miller,Romance,1968,6.57,77
+304,Front-line high-level emulation,Amber Joyce,Non-Fiction,1935,13.48,23
+305,Down-sized bandwidth-monitored open system,Susan Robbins,Fantasy,1999,31.66,27
+306,Phased didactic product,Elizabeth Koch,Biography,1988,43.92,56
+307,Expanded local infrastructure,Valerie Moore,Mystery,1914,14.43,7
+308,Expanded maximized collaboration,Amanda Moore,Romance,2009,20.75,35
+309,Mandatory homogeneous ability,George Sanchez,Fantasy,1939,11.74,77
+310,Reduced well-modulated database,Raymond Nicholson,Non-Fiction,2021,47.92,40
+311,Profit-focused static intranet,Kaitlyn Mills,Biography,1903,32.28,48
+312,Balanced multi-state monitoring,Clayton Garcia DDS,Biography,1946,36.47,13
+313,Profound client-driven paradigm,Nicole Olson,Non-Fiction,1997,47.16,53
+314,Decentralized discrete archive,Jordan Holt,Romance,1914,9.59,74
+315,Virtual exuding Internet solution,Anne George,Fiction,2012,42.9,40
+316,Multi-tiered client-server methodology,Rebecca Chavez,Fantasy,1992,8.81,74
+317,Upgradable client-driven ability,Patricia Kennedy,Science Fiction,1961,29.2,13
+318,Cloned upward-trending installation,Sherry Kim,Fantasy,1921,40.11,94
+319,Distributed disintermediate groupware,Michael Mckenzie,Fantasy,1964,42.61,50
+320,Ergonomic clear-thinking interface,Judith Gutierrez,Fantasy,1950,5.07,55
+321,Polarized optimizing moratorium,Amanda Savage,Biography,1911,24.32,16
+322,Customizable object-oriented paradigm,Gail Lawson,Non-Fiction,1932,26.49,42
+323,Balanced dynamic project,Kelly Hopkins,Biography,1976,35.83,2
+324,Diverse dynamic contingency,James Duran,Fiction,1993,46.08,23
+325,Proactive secondary help-desk,William Drake,Romance,1981,40.4,50
+326,Networked composite Internet solution,Victoria Wilson,Non-Fiction,1903,15.15,78
+327,Implemented zero-defect product,Kim Lee,Fiction,1984,21.4,29
+328,Sharable intermediate task-force,Andrew Cervantes,Science Fiction,1940,10.26,28
+329,Multi-tiered dedicated encryption,Jacob Fischer,Fiction,1973,38.49,27
+330,Assimilated user-facing approach,Roy Wolf,Biography,1990,32.02,25
+331,Profit-focused systematic project,Dennis Hooper,Fiction,1936,15.36,89
+332,Quality-focused mobile migration,Tanya Brandt,Biography,1968,49.08,17
+333,Advanced responsive extranet,Mark Chavez DDS,Fantasy,1959,27.76,29
+334,Synergistic fault-tolerant attitude,Robert Bullock,Mystery,1913,35.68,88
+335,Adaptive bi-directional implementation,Alexandra Cox,Romance,1938,47.29,23
+336,Organized high-level algorithm,Grace Waller,Fantasy,2006,24.08,26
+337,Progressive impactful structure,Karen Moreno,Fantasy,1901,34.28,44
+338,Seamless analyzing encoding,Kevin Garcia,Mystery,1949,10.17,61
+339,Centralized uniform extranet,Steven Mcdonald,Romance,2014,43.51,68
+340,Proactive system-worthy orchestration,Robert Scott,Mystery,1907,49.98,88
+341,Robust multimedia support,Scott Murphy,Non-Fiction,1933,19.59,42
+342,Digitized regional monitoring,Kenneth Finley,Fiction,1969,17.11,84
+343,De-engineered grid-enabled secured line,Marissa Smith,Mystery,2006,43.03,86
+344,Optimized holistic approach,Brittney Brown,Romance,1990,39.63,27
+345,Function-based disintermediate intranet,Michael Johnson,Science Fiction,1920,25.89,78
+346,Object-based asynchronous moratorium,Jennifer Oliver,Fantasy,1965,9.97,23
+347,Synergistic exuding website,Angelica Elliott,Mystery,1906,6.1,86
+348,Object-based contextually-based model,Amber Patterson,Romance,1907,12.62,22
+349,Monitored interactive focus group,Thomas Chung,Non-Fiction,2013,44.36,51
+350,Exclusive 24hour groupware,Brian Baker,Romance,2008,31.67,49
+351,Decentralized demand-driven middleware,Carmen Johnson,Fantasy,1972,34.98,42
+352,Intuitive intermediate paradigm,Scott Bowman MD,Science Fiction,1927,6.01,97
+353,Public-key intangible frame,Katherine Fry,Romance,1984,46.97,41
+354,Enhanced holistic solution,Jeremy Hughes,Mystery,1927,21.09,41
+355,Reduced systematic forecast,Christine Martin,Romance,1987,8.1,34
+356,Front-line modular moratorium,Timothy Williams,Biography,1957,25.65,44
+357,Intuitive value-added product,Hunter Odom,Non-Fiction,1983,11.85,27
+358,Right-sized intangible infrastructure,Stephanie Clayton,Biography,1962,7.18,29
+359,Secured maximized time-frame,Megan Burton,Romance,1970,28.19,99
+360,Profound tertiary encoding,Jennifer Jones,Non-Fiction,2020,49.34,73
+361,Optional object-oriented pricing structure,Jenna Johnson,Romance,1957,39.75,71
+362,Profit-focused multimedia throughput,Andrea Lucas,Fiction,1933,29.43,64
+363,Proactive explicit capability,Tony Curtis,Romance,1915,7.48,52
+364,Persevering scalable leverage,Angel Shepherd,Science Fiction,1923,43.82,86
+365,Synchronized impactful synergy,Megan Gutierrez,Science Fiction,1955,10.64,99
+366,Re-contextualized national secured line,Robert Wilson,Fiction,1922,13.1,4
+367,Universal analyzing support,Eric Taylor,Fiction,1940,29.32,35
+368,Stand-alone logistical installation,Elizabeth Williams,Biography,1913,44.6,97
+369,Diverse responsive focus group,Ashley Chavez,Biography,1966,22.65,100
+370,Synergistic user-facing frame,David Olson,Non-Fiction,1977,43.91,97
+371,Multi-tiered methodical paradigm,Vicki Vance,Non-Fiction,1959,17.4,43
+372,Realigned mobile focus group,Michael Jackson,Fiction,1905,17.73,42
+373,Exclusive dynamic approach,Michelle Mercado,Fiction,1911,39.09,49
+374,Operative non-volatile parallelism,Wendy Walker,Science Fiction,1987,24.26,72
+375,Fully-configurable disintermediate solution,Cynthia Jones,Mystery,1993,34.15,55
+376,Mandatory full-range middleware,Debra Horn,Romance,1997,29.26,76
+377,Realigned 6thgeneration infrastructure,Jennifer Hughes,Mystery,2007,39.79,55
+378,Future-proofed heuristic function,Samantha Mcclain,Romance,1903,6.01,0
+379,Digitized zero-defect access,Angela Stewart,Non-Fiction,1916,5.7,95
+380,Universal fault-tolerant array,Michael Johnson,Science Fiction,1984,13.17,78
+381,Total foreground alliance,Anthony Wilson,Non-Fiction,1977,10.6,14
+382,Implemented background approach,Megan King,Romance,2012,33.19,27
+383,Optional clear-thinking task-force,Samuel Morales,Mystery,1927,42.17,71
+384,Multi-channeled needs-based intranet,Molly Roberts,Romance,1911,33.92,46
+385,Right-sized holistic productivity,Geoffrey Burnett,Fantasy,1962,27.25,65
+386,Synchronized 24/7 analyzer,Dawn Hart,Romance,1944,6.36,71
+387,Grass-roots disintermediate analyzer,Amber Davis,Non-Fiction,1979,47.42,6
+388,Distributed transitional solution,Marilyn Camacho,Science Fiction,1917,26.62,5
+389,Robust holistic solution,Jennifer Nelson,Romance,1928,25.39,89
+390,Versatile mission-critical customer loyalty,Rachel Case,Biography,1947,39.96,35
+391,Face-to-face 6thgeneration attitude,Erica Olson,Romance,2009,33.42,35
+392,Horizontal hybrid emulation,Jeanne Brown,Fantasy,1963,35.52,86
+393,Triple-buffered multimedia access,Nathan Ashley,Fantasy,1987,44.0,44
+394,Integrated well-modulated Graphic Interface,Karen Reese,Fantasy,1994,27.15,59
+395,Proactive impactful attitude,Travis Thompson,Non-Fiction,1945,34.05,19
+396,Assimilated local complexity,Paul Smith,Mystery,1967,22.34,97
+397,Object-based secondary emulation,Angela Richard,Science Fiction,1969,28.15,50
+398,Programmable context-sensitive forecast,Evelyn Cox,Mystery,1998,33.41,50
+399,Distributed regional collaboration,Juan Reynolds,Biography,2007,14.34,25
+400,Multi-channeled context-sensitive adapter,Jeremiah Dyer,Fantasy,1915,34.57,47
+401,Managed eco-centric hierarchy,Debbie Lopez,Mystery,1997,31.72,37
+402,Streamlined multimedia capability,Anthony Vaughn,Mystery,1982,21.38,24
+403,Persevering incremental strategy,David Miller,Fiction,1928,15.01,82
+404,Face-to-face multi-tasking Internet solution,Kevin Pittman,Mystery,1915,15.65,69
+405,Fundamental regional capacity,Samantha Hawkins,Mystery,1916,7.42,98
+406,De-engineered methodical capacity,James Gonzalez,Fiction,2006,35.79,50
+407,Mandatory executive groupware,Michelle Bell,Romance,1947,42.19,50
+408,Decentralized tertiary customer loyalty,William Roberts,Fiction,1946,10.07,2
+409,Innovative directional project,Jerry Burch,Mystery,1941,21.56,49
+410,Team-oriented tangible ability,Veronica Hebert,Science Fiction,2005,44.33,42
+411,Profit-focused solution-oriented open system,Aaron Hall Jr.,Romance,2012,15.03,83
+412,Profound zero-defect process improvement,Lisa Alexander,Biography,1921,9.83,5
+413,Cross-platform grid-enabled capacity,Kimberly James,Fantasy,1997,10.35,89
+414,Organized directional Internet solution,Amanda Carrillo,Fiction,1999,22.55,93
+415,Enhanced next generation standardization,Anthony Nguyen,Fantasy,1976,29.51,18
+416,Expanded maximized portal,Tina Stevenson,Science Fiction,2018,49.1,96
+417,Persistent radical neural-net,Christopher Jones,Science Fiction,1945,46.61,48
+418,Proactive client-driven knowledgebase,Jeremy Ware,Fantasy,1927,31.88,83
+419,Enterprise-wide multimedia initiative,Theresa Rice,Non-Fiction,1981,9.28,25
+420,Proactive radical application,Kevin Mosley,Biography,1907,33.14,35
+421,Exclusive zero administration superstructure,John Pearson,Fiction,1901,40.05,58
+422,Grass-roots systematic moderator,Joyce Patton,Fantasy,1919,45.91,39
+423,Implemented systematic leverage,Daisy Johnson,Romance,1943,25.63,14
+424,Object-based secondary knowledgebase,Eric Shepherd,Mystery,1935,40.5,84
+425,Synergized analyzing solution,Tammy Cervantes,Non-Fiction,1990,24.23,45
+426,Triple-buffered upward-trending artificial intelligence,John Shannon,Biography,2021,32.82,98
+427,Ergonomic zero-defect software,Denise Mclaughlin,Fantasy,1965,18.0,46
+428,Innovative asymmetric utilization,Darryl Price,Romance,1966,22.73,66
+429,Cross-platform 24hour artificial intelligence,Dawn Coleman,Romance,2002,42.58,95
+430,Quality-focused methodical matrix,Dennis Hernandez,Mystery,1922,11.9,76
+431,Synergized fresh-thinking monitoring,Christopher Dixon,Romance,1965,19.48,31
+432,Horizontal disintermediate alliance,Rodney Ward,Non-Fiction,1951,8.84,55
+433,Configurable 3rdgeneration synergy,Teresa Bell,Fantasy,1944,22.09,81
+434,Monitored value-added focus group,Mary Pollard,Science Fiction,1942,45.58,4
+435,Inverse grid-enabled attitude,Kara Schwartz,Fantasy,1939,27.76,10
+436,Sharable heuristic conglomeration,Garrett Campbell,Mystery,1916,15.9,54
+437,Customizable directional matrices,Alyssa Lopez,Fiction,1960,44.29,7
+438,Synchronized mission-critical process improvement,Samantha Stewart,Science Fiction,1913,33.39,82
+439,Monitored eco-centric framework,Kelly Rodriguez,Fiction,1970,16.0,94
+440,Ergonomic disintermediate project,Jill Padilla,Non-Fiction,2000,27.42,68
+441,Streamlined 6thgeneration collaboration,Susan Reeves,Science Fiction,2013,40.72,65
+442,Enhanced grid-enabled budgetary management,Betty Cross,Non-Fiction,1993,48.48,93
+443,Down-sized radical orchestration,Crystal Hall,Non-Fiction,1987,44.05,89
+444,Open-source radical capability,Victoria Galloway,Romance,1907,12.73,26
+445,Advanced reciprocal time-frame,Pamela Crawford,Non-Fiction,2007,13.61,71
+446,Open-architected 3rdgeneration budgetary management,Carolyn Schmidt,Science Fiction,1909,34.49,7
+447,Enterprise-wide empowering circuit,Steven Hutchinson,Mystery,1906,36.25,9
+448,Digitized uniform Internet solution,Douglas Malone,Mystery,1929,6.26,70
+449,Universal homogeneous adapter,Gina Lopez,Romance,1966,40.17,1
+450,Reactive high-level framework,Miguel Smith,Non-Fiction,1935,45.75,18
+451,Re-contextualized logistical throughput,Danielle Alvarez,Romance,2009,5.63,87
+452,Vision-oriented 5thgeneration analyzer,Amber Hayden,Romance,1909,40.78,5
+453,Optional 6thgeneration task-force,Jesse Morgan,Non-Fiction,1996,48.55,65
+454,Stand-alone methodical implementation,Kim Wilson,Biography,1940,9.56,94
+455,Diverse zero tolerance service-desk,Ashley Jackson,Romance,1960,27.03,55
+456,User-centric composite projection,Jordan West,Romance,1991,20.11,37
+457,Configurable disintermediate extranet,Melissa Lewis,Mystery,1953,28.22,2
+458,Cross-group analyzing matrix,Nancy Griffith,Fiction,1914,37.28,53
+459,Customizable optimal infrastructure,Robert Garcia,Mystery,2013,35.77,45
+460,Optimized human-resource forecast,Rachel Travis,Romance,1900,35.88,39
+461,Cloned cohesive attitude,Daniel Walsh,Science Fiction,1969,9.6,39
+462,Innovative 3rdgeneration database,Allison Contreras,Fantasy,1988,49.23,62
+463,Re-engineered disintermediate definition,Cheryl Anderson,Fantasy,1911,11.99,36
+464,Function-based human-resource migration,Lauren Hall,Non-Fiction,1998,38.54,12
+465,Organic attitude-oriented support,Kayla Clarke,Non-Fiction,1920,24.93,78
+466,Multi-channeled mission-critical initiative,Michelle Hanson,Fantasy,2015,37.17,93
+467,Function-based dedicated frame,Larry Hunt,Romance,1979,13.82,96
+468,Organized upward-trending parallelism,Nicole Davenport,Fantasy,1987,30.59,83
+469,Automated 5thgeneration customer loyalty,Kimberly Shannon,Fantasy,1967,23.25,92
+470,Function-based mobile neural-net,Christopher Gomez,Fantasy,1915,27.67,40
+471,Cross-platform next generation website,Anna Roberts,Romance,1929,45.38,37
+472,Stand-alone clear-thinking extranet,Craig Dominguez,Fiction,1942,28.09,9
+473,Fully-configurable mobile solution,Cathy Stone,Fantasy,1964,30.26,72
+474,Grass-roots static hub,Ryan Mcintyre,Mystery,2010,46.84,98
+475,Stand-alone zero administration emulation,Michelle Lyons,Romance,1986,47.76,100
+476,Front-line next generation migration,Russell Sparks,Biography,1907,39.42,37
+477,Distributed cohesive approach,Chris Brown,Romance,2019,27.71,17
+478,Total logistical parallelism,Andrea Meyer,Science Fiction,1913,35.46,53
+479,Balanced grid-enabled architecture,Christian Morales,Fiction,2009,38.27,60
+480,Adaptive mobile toolset,Andrew James,Fiction,1940,38.15,75
+481,Automated transitional hardware,Nicole Smith,Fiction,1980,10.55,77
+482,Pre-emptive transitional contingency,Joseph Holt,Science Fiction,1965,31.96,33
+483,Enterprise-wide analyzing alliance,Alicia Martin,Mystery,1931,14.03,46
+484,User-centric discrete software,Emma Hudson,Non-Fiction,1991,37.51,37
+485,Decentralized content-based access,Nancy Taylor,Mystery,1900,23.16,57
+486,Monitored tangible extranet,Lisa Medina,Non-Fiction,2018,19.13,52
+487,Self-enabling actuating monitoring,Allison Salas,Mystery,1921,39.26,26
+488,Optimized attitude-oriented synergy,Cory Ross,Non-Fiction,1985,49.15,64
+489,Enhanced system-worthy middleware,Roger Austin,Science Fiction,1906,34.02,49
+490,Progressive client-server infrastructure,Philip Thompson,Non-Fiction,2019,12.88,40
+491,Pre-emptive intangible adapter,Michael Hill,Fantasy,1910,14.87,2
+492,Implemented next generation open architecture,Marcus Spencer,Science Fiction,1984,44.07,76
+493,User-centric bi-directional application,Anthony Poole,Science Fiction,1956,28.08,89
+494,Triple-buffered dedicated strategy,Kimberly Smith MD,Romance,1901,6.66,59
+495,Horizontal background throughput,Billy Lopez,Fiction,1987,20.31,43
+496,Decentralized radical forecast,James Adams,Science Fiction,1966,43.75,96
+497,Function-based local installation,Craig Thompson,Science Fiction,1919,24.1,33
+498,Secured 24/7 neural-net,Heather Marks,Non-Fiction,1975,10.88,22
+499,Compatible transitional budgetary management,Isaac Nelson,Biography,1905,6.94,64
+500,Vision-oriented zero tolerance initiative,David Hatfield,Science Fiction,1921,15.94,64
