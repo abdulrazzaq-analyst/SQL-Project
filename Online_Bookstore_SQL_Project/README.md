@@ -1,10 +1,28 @@
 # 📚 Online Bookstore SQL Project
 
-This project is a simple SQL-based simulation of an Online Bookstore using PostgreSQL. It includes:
+This project is a SQL-based simulation of an Online Bookstore using PostgreSQL. It includes:
 
 - Database and table creation
 - Data import from CSV files
 - 30 analytical queries for business insights
+
+---
+
+## 🗂️ Folders
+
+- `sql_files/` → Contains all SQL scripts  
+- `csv_files/` → Contains sample data (Books, Customers, Orders)  
+- `project_documents/` → Contains PDF report and PowerPoint presentation
+
+---
+
+## 🚀 How to Use
+
+1. Run `1_database_creation.sql` from the `sql_files/` folder  
+2. Run `2_table_creation_and_import.sql` to create tables and import CSV data  
+3. Run `3_analytical_queries.sql` to perform analysis
+
+Make sure to adjust `COPY` file paths in SQL scripts if needed.
 
 ---
 
@@ -16,33 +34,11 @@ This project is a simple SQL-based simulation of an Online Bookstore using Postg
 
 ---
 
-## 🚀 How to Use
-
-1. Run `1_database_creation.sql` to create the database  
-2. Run `2_table_creation_and_import.sql` to create tables and load data  
-3. Run `3_analytical_queries.sql` to perform data analysis
-
-CSV files are in the `data/` folder.
-
----
-
-## 📄 Files Included
-
-- `1_database_creation.sql`
-- `2_table_creation_and_import.sql`
-- `3_analytical_queries.sql`
-- `data/` folder with `Books.csv`, `Customers.csv`, `Orders.csv`
-- `documents/` folder with report and presentation
-
----
-
 ## 👨‍💻 Author
 
 **Abdul Razzaq**  
-Data Analytics
-
+Data Analytics  
 
 ---
 
 📌 *This project is part of my data analytics portfolio.*
-
