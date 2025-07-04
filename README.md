@@ -1,28 +1,37 @@
-# 📚 Online Bookstore SQL Project
+  # 📊 SQL Projects Portfolio
 
-This project simulates a relational database system for an Online Bookstore using PostgreSQL. It includes:
+This repository contains multiple real-world SQL projects created using PostgreSQL.  
+Each project focuses on solving practical business problems using SQL queries and structured data.
 
-- Database creation and schema setup
-- Sample data import from CSV files
-- 30 analytical SQL queries covering business insights
-
-## 🗂️ Files Included
-
-- `1_database_creation.sql` – Creates the database
-- `2_table_creation_and_import.sql` – Creates tables and imports data
-- `3_analytical_queries.sql` – Contains 30 SQL queries for data analysis
-
-## 📄 Additional Files
-
-- `report.pdf` – Business insights report
-- `presentation.pptx` – PowerPoint summary
-
-## 📌 Key Concepts Used
-
-- Joins, Group By, Aggregate Functions
-- Subqueries, Window Functions, CTEs
-- Views, Case Statements, Data Cleaning
+Projects include database creation, table setup, data import from CSV files, and analytical queries for insights.
 
 ---
 
-🛠️ *Built with PostgreSQL. Adaptable for other RDBMS with minor modifications.*
+## 🛠️ Tools Used
+
+- PostgreSQL
+- pgAdmin / DBeaver
+- CSV Files
+
+---
+
+## 🚀 How to Use
+
+1. Open any project folder
+2. Run the SQL files in order:
+   - Database creation
+   - Table creation and data import
+   - Analytical queries
+3. Use CSV files provided in the `data/` folder
+
+---
+
+## 👨‍💻 Author
+
+**Abdul Razzaq**  
+Data Analyst
+
+
+---
+
+## 📌 More projects will be added soon.
