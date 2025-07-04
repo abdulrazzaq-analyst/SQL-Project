@@ -1,33 +1,28 @@
-# Online Bookstore SQL Project
+# 📚 Online Bookstore SQL Project
 
-This project simulates a SQL-based analysis of an online bookstore system. It includes:
+This project simulates a relational database system for an Online Bookstore using PostgreSQL. It includes:
 
-- 📄 SQL queries for data analysis
-- 📊 PowerPoint presentation summarizing the key insights
-- 📝 PDF report with detailed explanation of business insights
+- Database creation and schema setup
+- Sample data import from CSV files
+- 30 analytical SQL queries covering business insights
 
-## Project Highlights
+## 🗂️ Files Included
 
-- Joins and aggregations
-- Subqueries and window functions
-- Customer and sales analytics
-- Genre-based book ranking
-- Duplicate detection
-- Revenue and order summaries
+- `1_database_creation.sql` – Creates the database
+- `2_table_creation_and_import.sql` – Creates tables and imports data
+- `3_analytical_queries.sql` – Contains 30 SQL queries for data analysis
 
-## Folder Structure
+## 📄 Additional Files
 
-- `queries/` – Contains all SQL files
-- `documents/` – PDF report and PPT presentation
-- `README.md` – Project description
+- `documents/report.pdf` – Business insights report
+- `documents/presentation.pptx` – PowerPoint summary
 
-## Tools Used
+## 📌 Key Concepts Used
 
-- PostgreSQL (can be adapted for MySQL/SQLite)
-- SQL
-- Microsoft PowerPoint
-- PDF Report (exported from presentation or prepared separately)
+- Joins, Group By, Aggregate Functions
+- Subqueries, Window Functions, CTEs
+- Views, Case Statements, Data Cleaning
 
 ---
 
-Feel free to explore the queries and insights to understand how SQL can be used for business intelligence in a bookstore setting.
+🛠️ *Built with PostgreSQL. Adaptable for other RDBMS with minor modifications.*
