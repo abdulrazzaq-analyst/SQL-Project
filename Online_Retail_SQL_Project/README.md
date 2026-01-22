@@ -6,6 +6,9 @@ Welcome to my SQL project based on a structured **Retail Business Dataset**. Thi
 
 ### 🗞️ Project Overview
 
+<img width="1573" height="725" alt="ER_Diagram" src="https://github.com/user-attachments/assets/089d4305-f3f7-4ebf-a91d-675e6a5a5a75" />
+
+
 This project uses a **relational database with 9 interconnected tables**:
 - `brands`, `categories`, `customers`, `order_items`, `orders`, `products`, `staffs`, `stocks`, and `stores`.
 
