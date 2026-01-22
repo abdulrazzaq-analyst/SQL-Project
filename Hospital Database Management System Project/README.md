@@ -69,13 +69,28 @@ The system includes the following main tables:
 
 ---
 
-## 👨‍💻 Author  
-**Abdul Razzaq**  
+## 🌐 Portfolio Website
 
-🔗 GitHub: [Abdul Razzaq](https://github.com/abdulrazzaq-analyst)  
-🔗 LinkedIn: [Abdul Razzaq](https://www.linkedin.com/in/abdul-razzaq-095aab2b6)  
+Explore more of my data analytics projects:  
+👉 https://abdulrazzaq-analyst.github.io/Portfolio_Website/
 
 ---
+
+## 📞 Contact
+
+For questions or collaboration:  
+📧 abdulrazzaq.analytics@gmail.com  
+🔗 https://github.com/abdulrazzaq-analyst
+
+---
+
+## 👤 Author
+
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
+⭐ If you found this project interesting, don’t forget to **star this repository** on GitHub!
 
 📌 *This project was developed for educational purposes to demonstrate SQL proficiency and database design for healthcare management systems.*  
 
