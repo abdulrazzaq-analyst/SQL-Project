@@ -65,15 +65,23 @@ This project simulates real-world business data analysis using SQL. It's an end-
 
 ---
 
-### 🤛 About Me
-
-I'm Abdul Razzaq — a data analyst passionate about transforming raw data into powerful business insights using tools like **SQL, Excel, Power BI, and Python**.
-
-Follow me on:  
-🔗 **[LinkedIn](https://www.linkedin.com/in/abdulrazzaq-data-analyst)**  
-🌐 **[GitHub Portfolio](https://github.com/abdulrazzaq-analyst)**
+## 🌐 Portfolio Website
+Explore more of my data analytics projects:  
+👉 https://abdulrazzaq-analyst.github.io/Portfolio_Website/
 
 ---
 
-**⭐ Don't forget to give this repo a star if you found it helpful!**
+## 📞 Contact
+For questions or collaboration:  
+📧 abdulrazzaq.analytics@gmail.com  
+🔗 https://github.com/abdulrazzaq-analyst
+
+---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
+⭐ If you found this project interesting, don’t forget to **star this repo** on GitHub!  
 
